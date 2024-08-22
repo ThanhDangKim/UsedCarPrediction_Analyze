@@ -21,9 +21,9 @@ The data used in this project includes:
 
 ## Project Structure
 - mucluc_final.txt: This file contains the table of contents, work requirements, and details for each section of the report.
-- nhom_5.docx: The document file containing the detailed report.
-- nhom_5.json: A file containing the code written in Apache Zeppelin.
-- nhom_5_zep.pdf: A PDF capturing the content of the report and the code as presented in Apache Zeppelin.
+- UsedCarPrediction_Analyze.docx: The document file containing the detailed report.
+- UsedCarPrediction_Analyze.json: A file containing the code written in Apache Zeppelin.
+- UsedCarPrediction_Analyze.pdf: A PDF capturing the content of the report and the code as presented in Apache Zeppelin.
 
 ## How to Use
 - Clone this repository to your local machine.
